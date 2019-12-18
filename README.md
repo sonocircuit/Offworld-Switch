@@ -6,7 +6,3 @@ The OFFWORLD/SWITCH is a small device to switch the USB data lines of a device b
 
 Additionally the USB port powering the device can be selected via jumper.
 Top position A, middle position PWR and bottom position B. The PWR usb connector provides 5V only.
-
-## Licence
-
-[CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
