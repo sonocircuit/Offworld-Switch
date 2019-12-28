@@ -2,7 +2,9 @@
 
 ![DEVICE](https://github.com/sonoCircuits/Offworld-Switch/blob/master/OFFWORLD-SWITCH%20IMAGES/IMG_2401.jpg)
 
-The OFFWORLD/SWITCH is a small device to switch the USB data lines of a device between two hosts (A and B). I needed a small device to switch the usb connection between a Norns and Ansible. While designing I deceded to incorporate monome's idea of the [offworld-1 device](https://github.com/monome/offworld-1). A more appropriate name would be "WORLD/SELECTOR" as it works as offworld only when the jumper is in center position.
+The OFFWORLD/SWITCH is a small device to switch the USB data lines of a device between two hosts (A and B).
+
+I needed a small device to switch the usb connection between a Norns and Ansible. While designing I deceded to incorporate monome's idea of the [offworld-1 device](https://github.com/monome/offworld-1). A more appropriate name would be "WORLD/SELECTOR" as it works as offworld only when the jumper is in center position.
 
 ## How to use
 There are three miniUSB B connectors on the rear and one USB A connector on the side. The Datalines D+/D- of the USB A are switched between the two outer miniUSB B connectors (A and B) via switch. <br>
