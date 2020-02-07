@@ -16,3 +16,9 @@ The miniUSB connector powering the device connected to the USB A can be selected
 Top position A, middle position PWR and bottom position B.
 
 ![Header Image](https://github.com/sonoCircuits/Offworld-Switch/blob/master/OFFWORLD-SWITCH%20IMAGES/OFSW_HEADER.JPG)
+
+## Improvements
+
+* replace the 6pin jumper with a three way switch. However, while testing, hotswiching the power source made Norns crash on several occations.
+
+BOM will be available soon.
